@@ -334,9 +334,9 @@ Overall, the study provides meaningful insights into employment patterns, expend
 
 ---
 
-### Power BI Dashboard
+## Power BI Dashboard
 
-![Dashboard Preview](figures/Main_Dashboard.png)
+![Dashboard Preview](outputs/figures/Main_Dashboard.png)
 
 ---
 
